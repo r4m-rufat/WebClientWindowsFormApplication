@@ -1,0 +1,10 @@
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\bin\Debug\WebClientApplication.exe.config
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\bin\Debug\WebClientApplication.exe
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\bin\Debug\WebClientApplication.pdb
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.csproj.AssemblyReference.cache
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.Main.resources
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.Properties.Resources.resources
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.csproj.GenerateResource.cache
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.exe
+C:\Users\rufet\Desktop\WebClientApplication\WebClientApplication\obj\Debug\WebClientApplication.pdb
